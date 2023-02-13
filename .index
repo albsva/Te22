@@ -1,0 +1,5 @@
+<style>
+
+main {
+	width: min(80ch, 100vw - 4rem);
+	matgin-inline: auto;
